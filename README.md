@@ -33,7 +33,9 @@ A simple command-line Python project to manage student records using CRUD operat
 - File handling with JSON
 - Exception handling (try / except)
 - Using lists and dictionaries
-
+  
 ## Author
 Neha Khatri
+
 Made as part of the Codomax Digital Solutions Python Internship (Module 02).
+
